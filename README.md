@@ -1,6 +1,4 @@
-# shaurya-src.github.io
-
-### Personal portfolio on GitHub.io
+# Personal portfolio on GitHub.io
 
 #### Template Details
 
