@@ -49,6 +49,7 @@ if __name__ == '__main__':
 - [Installation](#installation)
 - [Contribute](#contri)
 - [Tech Stacks](#tech)
+- [Template](#template)
 - [License](#license)
 - [Author](#author)
 
@@ -119,6 +120,14 @@ Any contributions you make are **greatly appreciated**.
   <img src="https://img.shields.io/badge/Library-TensorFlow-success?style=flat-square&logo=TensorFlow&logoColor=white">
   <img src="https://img.shields.io/badge/Library-Matplotlib-success?style=flat-square&logo=GraphQL&logoColor=white&color=purple">
 </p>
+
+## <a name="template"> Template
+
+* Template Name: iPortfolio
+* Template URL: [iPortfolio Template](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
+* Author: BootstrapMade.com
+* License: [Bootstrapmade License](https://bootstrapmade.com/license/)
+
 
 ## <a name="license"> License
 
@@ -217,16 +226,3 @@ Any contributions you make are **greatly appreciated**.
 - VSC: https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue
 
 -->
-
-
-
-
-
-# Personal portfolio on GitHub.io
-
-#### Template Details
-
-* Template Name: iPortfolio
-* Template URL: [iPortfolio Template](https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/)
-* Author: BootstrapMade.com
-* License: [Bootstrapmade License](https://bootstrapmade.com/license/)
