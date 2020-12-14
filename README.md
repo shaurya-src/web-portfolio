@@ -32,11 +32,13 @@ if __name__ == '__main__':
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
 
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
+- [] Side Navigation
+- [x] Landing Page
+- [x] About
+- [x] Resume
+- [x] Projects
+- [x] Interests
+- [x] Contact
 - [x] *And More...*
 
 # Contents
