@@ -32,7 +32,7 @@ if __name__ == '__main__':
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
 
-- [] Side Navigation
+- [x] Side Navigation
 - [x] Landing Page
 - [x] About
 - [x] Resume
