@@ -26,9 +26,9 @@ if __name__ == '__main__':
 
 # Features
 
-![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/Web-Automation?logo=GitHub&style=flat-square)
-![License](https://img.shields.io/github/license/shaurya-src/Web-Automation?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square)
+![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/shaurya-src.github.io?logo=GitHub&style=flat-square)
+![License](https://img.shields.io/github/license/shaurya-src/shaurya-src.github.io?logo=GitLab&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/shaurya-src.github.io?logo=Git&style=flat-square)
 
 <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
 
@@ -122,7 +122,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) file for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/shaurya-src.github.io/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 <!---
