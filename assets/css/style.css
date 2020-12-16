@@ -666,7 +666,8 @@ section {
   top: calc(50% - 10px);
 
   float: center;
-
+  display: inline-block;
+  
   background: #149ddd;
   color: #ffffff;
   border: 1px solid #149ddd;
