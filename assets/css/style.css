@@ -658,13 +658,14 @@ section {
 /* ----- New Icon class ----- */
 
 .testimonials .icon {
+  margin-left: 155px;
   float: left;
   display: flex;
   align-items: center;
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #361e7b;
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #149ddd;
