@@ -665,14 +665,16 @@ section {
   position: relative;
   top: calc(50% - 10px);
 
-  float: center-left;
+  float: center;
 
   background: #149ddd;
   color: #ffffff;
   border: 1px solid #149ddd;
   padding:7px;
-  font-size: 25px;
+  font-size: 18px;
   border-radius: 50%;
+
+  transition: 0.5s;
 }
 
 .testimonials .testimonial-item:hover .icon {
@@ -680,7 +682,7 @@ section {
 }
 
 .testimonials .testimonial-item:hover .icon i {
-  border: 2px solid #173b6c;
+  border: 1px solid #149ddd;
   background: #ffffff;
   color: #149ddd;
 }
