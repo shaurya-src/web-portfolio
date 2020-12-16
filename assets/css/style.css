@@ -655,6 +655,8 @@ section {
   margin: 0 auto;
 }
 
+/* ----- New Icon class ----- */
+
 .testimonials .icon {
   float: left;
   display: flex;
@@ -680,6 +682,8 @@ section {
 .testimonials .testimonial-item:hover .icon i {
   color: #149ddd;
 }
+
+/* ----- END NEW ----- */
 
 .testimonials .testimonial-item h3 {
   font-size: 18px;
