@@ -655,6 +655,32 @@ section {
   margin: 0 auto;
 }
 
+.testimonials .icon {
+  float: left;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 54px;
+  height: 54px;
+  background: #149ddd;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid #149ddd;
+}
+
+.testimonials .icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+.testimonials .testimonial-item:hover .icon {
+  background: #fff;
+}
+
+.testimonials .testimonial-item:hover .icon i {
+  color: #149ddd;
+}
+
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
