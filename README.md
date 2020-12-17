@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/logo.png" width="500">
-</p>
+<code>
+  <h1 align="center">Git Auto </h1>
+</code>
 
 # Overview
 
