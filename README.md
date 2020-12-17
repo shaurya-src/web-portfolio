@@ -5,8 +5,8 @@
 # Overview
 
 <img src="https://github.com/shaurya-src/shaurya-src.github.io/blob/main/assets/img/still.png" align="left">
-
-<p align="center"> `shauryasrc.com` </p>
+<br>
+<p align="center"> <code> `shauryasrc.com` </code> </p>
 
 # Features
 
@@ -14,7 +14,7 @@
 ![License](https://img.shields.io/github/license/shaurya-src/shaurya-src.github.io?logo=GitLab&style=flat-square)
 ![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/shaurya-src.github.io?logo=Git&style=flat-square)
 
-<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-yaw-rotation.gif" align="right">
+<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right">
 
 - [x] Side Navigation
 - [x] Landing Page
