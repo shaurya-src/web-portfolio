@@ -100,12 +100,12 @@ Any contributions you make are **greatly appreciated**.
 ## <a name="tech"> Tech Stacks/Tools Used
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3.x-success?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-HTML-success?style=flat-square&logo=HTML5&logoColor=white&color=purple">
+  <img src="https://img.shields.io/badge/Language-CSS-success?style=flat-square&logo=CSS3&logoColor=white&color=purple">
+  <img src="https://img.shields.io/badge/Language-JavaScript-success?style=flat-square&logo=JavaScript&logoColor=white&color=purple">
+
   <img src="https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Windows-10-success?style=flat-square&logo=Windows&logoColor=white">
-
-  <img src="https://img.shields.io/badge/Library-TensorFlow-success?style=flat-square&logo=TensorFlow&logoColor=white">
-  <img src="https://img.shields.io/badge/Library-Matplotlib-success?style=flat-square&logo=GraphQL&logoColor=white&color=purple">
 </p>
 
 <!---
