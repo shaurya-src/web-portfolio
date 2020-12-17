@@ -46,30 +46,8 @@ pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rho
 
 In addition, you can also customize the following properties according to the need.
 
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-
-# <a name="usage"> Usage
-
-1. ***Lorem Ipsum***
-
-`Project` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-2. ***Lorem Ipsum***
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-3. ***Lorem Ipsum***
-
-Finally, call `func(arg)` in `main()`
-
-```python
-def func(arg):
-    return arg
-
-func(input())
-```
+- `data-aos` to change animation
+- `icofont` to change icons
 
 ## <a name="requirements"> Requirements
 
@@ -100,12 +78,12 @@ Any contributions you make are **greatly appreciated**.
 ## <a name="tech"> Tech Stacks/Tools Used
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Language-HTML-success?style=flat-square&logo=HTML5&logoColor=white&color=purple">
-  <img src="https://img.shields.io/badge/Language-CSS-success?style=flat-square&logo=CSS3&logoColor=white&color=purple">
-  <img src="https://img.shields.io/badge/Language-JavaScript-success?style=flat-square&logo=JavaScript&logoColor=white&color=purple">
-
   <img src="https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Windows-10-success?style=flat-square&logo=Windows&logoColor=white">
+
+  <img src="https://img.shields.io/badge/Language-HTML-success?style=flat-square&logo=HTML5&logoColor=white&color=purple">
+  <img src="https://img.shields.io/badge/Language-CSS-success?style=flat-square&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Language-JavaScript-success?style=flat-square&logo=JavaScript&logoColor=white&color=purple">
 </p>
 
 <!---
