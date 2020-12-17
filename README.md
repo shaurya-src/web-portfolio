@@ -6,7 +6,17 @@
 
 <img src="https://github.com/shaurya-src/shaurya-src.github.io/blob/main/assets/img/still.png" align="left">
 <br>
+<br>
 <p align="center"> <code> `shauryasrc.com` </code> </p>
+
+# <a name="project-info"> Project Details
+
+This is my portfolio website made using CSS and JavaScript. To use this work as a template, star and fork the repository. More webpages can be added to make a full-fledged project portfolio.
+
+In addition, you can also customize the following properties according to the need.
+
+- `data-aos` to change animation
+- `icofont` to change icons
 
 # Features
 
@@ -35,19 +45,6 @@
 - [Tech Stacks](#tech)
 - [License](#license)
 - [Author](#author)
-
-# <a name="project-info"> Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
-
-In addition, you can also customize the following properties according to the need.
-
-- `data-aos` to change animation
-- `icofont` to change icons
 
 ## <a name="requirements"> Requirements
 
