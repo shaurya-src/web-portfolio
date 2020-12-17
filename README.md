@@ -73,15 +73,19 @@ func(input())
 
 ## <a name="requirements"> Requirements
 
-- Xcode 10.2.1
-- Swift 5.0
+- HTML
+- CSS
+- JavaScript
 
 ## <a name="installation"> Installation
 
-Follow these steps to use *this project*.
+Follow these steps to use *this portfolio* as a template.
 
-1. Clone the repository.
-2. Lorem ipsum
+1. Clone the repository (`git clone https://github.com/shaurya-src/shaurya-src.github.io.git`)
+2. Add the required Assets in the directory
+3. Change details/content of the portfolio in `index.html` file
+4. Push changes after initiating personal repo (`git push -u origin main`)
+5. Host the website
 
 ## <a name="contri"> Contribute
 
