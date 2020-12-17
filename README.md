@@ -4,9 +4,9 @@
 
 # Overview
 
-<img src="assets/image/still.png" align="left">
+<img src="https://github.com/shaurya-src/shaurya-src.github.io/blob/main/assets/img/still.png" align="left">
 
-## `shauryasrc.com` !
+<p align="center"> `shauryasrc.com` </p>
 
 # Features
 
