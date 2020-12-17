@@ -1,28 +1,12 @@
 <code>
-  <h1 align="center">Git Auto </h1>
+  <h1 align="center">Portfolio Website </h1>
 </code>
 
 # Overview
 
-<img src="https://github.com/shoheiyokoyama/Assets/blob/master/Gemini/demo-circle-rotation.gif" align="left">
+<img src="assets/image/still.png" align="left">
 
-## What is the `Project`?
-
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
-
-```python
-def main()
-    text = "Hello World!"
-    return text
-
-if __name__ == '__main__':
-    text = main()
-    print(text)
-```
+## `shauryasrc.com` !
 
 # Features
 
@@ -49,7 +33,6 @@ if __name__ == '__main__':
 - [Installation](#installation)
 - [Contribute](#contri)
 - [Tech Stacks](#tech)
-<!--- - [Template](#template) -->
 - [License](#license)
 - [Author](#author)
 
