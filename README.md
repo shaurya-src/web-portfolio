@@ -14,7 +14,7 @@
 ![License](https://img.shields.io/github/license/shaurya-src/shaurya-src.github.io?logo=GitLab&style=flat-square)
 ![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/shaurya-src.github.io?logo=Git&style=flat-square)
 
-<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="200" height="200">
+<img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
 - [x] Side Navigation
 - [x] Landing Page
