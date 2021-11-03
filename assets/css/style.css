@@ -486,6 +486,11 @@ section {
   border: 2px solid #1f5297;
 }
 
+.resume .resume-item em {
+  font-style: normal;
+  color: darkcyan;
+  font-weight: bold;
+}
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
