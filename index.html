@@ -143,7 +143,16 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
               <i class="icofont-simple-smile"></i>
-              <span data-toggle="counter-up">7617</span>
+              <span id="date_counter" data-toggle="counter-up"></span>
+
+              <script>
+                const dob = new Date(2000, 12, 26);
+                var today = new Date();
+                const diffTime = Math.abs(today - dob);
+                const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
+                document.getElementById("date_counter").innerHTML = diffDays;
+              </script>
+              
               <p><strong>Days on this planet</strong></p>
             </div>
           </div>
