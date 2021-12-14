@@ -4,7 +4,7 @@
 
 # Overview
 
-<img src="https://github.com/shaurya-src/shaurya-src.github.io/blob/main/assets/img/still.jpg" align="left">
+<img src="https://github.com/shaurya-src/web-portfolio/blob/main/assets/img/still.jpg" align="left">
 <br>
 <br>
 <p align="center"> <code> `shauryasrc.com` </code> </p>
