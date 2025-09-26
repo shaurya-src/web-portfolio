@@ -11,17 +11,43 @@
     <!-- Favicons -->
     <link href="assets/img/favicon.png" rel="icon">
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9FGB12TEY7"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-9FGB12TEY7');
+        
+        // Track resume page visit
+        gtag('event', 'page_view', {
+            'page_title': 'Resume Page',
+            'page_location': window.location.href,
+            'content_group1': 'Resume'
+        });
+    </script>
 </head>
 <body>
     <script>
-        // Redirect to resume PDF immediately
-        window.location.replace("assets/ShauryaResume.pdf");
+        // Track resume download event
+        gtag('event', 'file_download', {
+            'event_category': 'engagement',
+            'event_label': 'Resume PDF',
+            'file_name': 'ShauryaResume.pdf',
+            'link_url': 'assets/ShauryaResume.pdf'
+        });
+        
+        // Small delay to ensure analytics event is sent before redirect
+        setTimeout(function() {
+            window.location.replace("assets/ShauryaResume.pdf");
+        }, 100);
     </script>
     
     <!-- Fallback content for users with JavaScript disabled -->
     <div style="text-align: center; padding: 50px; font-family: Arial, sans-serif;">
         <h1>Redirecting to Resume...</h1>
-        <p>If you are not automatically redirected, <a href="assets/ShauryaResume.pdf">click here to download the resume</a>.</p>
+        <p>If you are not automatically redirected, <a href="assets/ShauryaResume.pdf" onclick="gtag('event', 'file_download', {'event_category': 'engagement', 'event_label': 'Resume PDF Manual', 'file_name': 'ShauryaResume.pdf'});">click here to download the resume</a>.</p>
     </div>
 </body>
 </html>
